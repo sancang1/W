@@ -7,4 +7,4 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-00-02d3470a3cde/locations/us-west3/workerPools/PUCUK'
+    name: 'projects/qwiklabs-gcp-00-02d3470a3cde/locations/us-west4/workerPools/PUCUK'
